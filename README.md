@@ -1,24 +1,24 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!-- DYNAMIC CYBERPUNK HEADER BANNER                                    -->
+<!-- DYNAMIC CYBERPUNK / MINECRAFT HEADER BANNER                        -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,38&height=240&section=header&text=AADARSH%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%2016yo%20Student%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Systems%20Architect%20%E2%9A%A1&descAlignY=58&descAlign=50&descSize=19&animation=fadeIn" width="100%" alt="Aadarsh Jain Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,38&height=240&section=header&text=AADARSH%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%2016yo%20Student%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Minecraft%20Architect%20%E2%9A%A1&descAlignY=58&descAlign=50&descSize=19&animation=fadeIn" width="100%" alt="Aadarsh Jain Banner" />
 
 <!-- DYNAMIC TYPING TERMINAL -->
 <a href="https://aadarsh07.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=48&lines=%E2%96%B6+Class+11+PCM+Student+from+Madhya+Pradesh%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%B6+Building+Next-Gen+AI+Agents%2C+Full-Stack+Platforms+%26+3D+OSs;%E2%96%B6+Semi-Finalist+%40+Thrizll+Build-to-Bond+%F0%9F%8F%86;%E2%96%B6+Finalist+%40+Bharat+Innovation+Challenge+%26+KIIT+Ideathon;%E2%96%B6+Selected+Voice+AI+Builder+%40+Murf+AI+Sprint;%E2%96%B6+Boot+into+my+digital+universe+at+aadarsh07.vercel.app" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=4ADE80&center=true&vCenter=true&multiline=false&width=750&height=48&lines=%E2%96%B6+Class+11+PCM+Student+from+Madhya+Pradesh%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%B6+Building+Next-Gen+AI+Agents%2C+Full-Stack+Apps+%26+3D+Experiences;%E2%96%B6+Crafting+in+2D+Minecraft+%26+Coding+at+aadarsh07.vercel.app;%E2%96%B6+Semi-Finalist+%40+Thrizll+%7C+Finalist+%40+Bharat+Innovation;%E2%96%B6+Winner+%E2%99%9F+Inter-School+Chess+Championship;%E2%96%B6+Play+2D+Minecraft+below+directly+in+browser!" alt="Typing Banner" />
 </a>
 
 <br/>
 
 <!-- STATUS BADGES & TELEMETRY -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-IN_THE_ZONE_%F0%9F%94%A5-ff0055?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/STATUS-SURVIVAL_MODE_%E2%9A%94%EF%B8%8F-22c55e?style=for-the-badge" alt="Status"/>
+  <a href="https://aadarsh07.vercel.app/minecraft.html"><img src="https://img.shields.io/badge/%E2%9B%8F%EF%B8%8F_PLAY_MINECRAFT_2D-60_FPS_CANVAS-facc15?style=for-the-badge&logo=minecraft&logoColor=black" alt="Play 2D Minecraft"/></a>
   <a href="https://aadarsh07.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO_OS-aadarsh07.vercel.app-00f2fe?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/></a>
-  <a href="https://aadarsh07.vercel.app/arcade.html"><img src="https://img.shields.io/badge/%F0%9F%94%A5_PLAY_2D_ARCADE-60_FPS_CANVAS-ffd700?style=for-the-badge&logo=gamepad&logoColor=black" alt="Play 2D Arcade"/></a>
   <a href="https://linkedin.com/in/itsmeaadarsh"><img src="https://img.shields.io/badge/LINKEDIN-itsmeaadarsh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AadarshJain07&label=PORTAL_VISITORS&color=00f2fe&style=for-the-badge" alt="Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=AadarshJain07&label=WORLD_VISITORS&color=4ade80&style=for-the-badge" alt="Visitor Counter"/>
 </p>
 
 ---
@@ -28,97 +28,101 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!-- 🕹️ 2D RETRO ARCADE ARENA: PLAYABLE 2D GRAPHICAL COMBAT              -->
+<!-- ⛏️ 2D MINECRAFT WORLD & PLAYABLE SANDBOX ARCADE                     -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 👾 2D RETRO ARCADE ARENA : `CYBER-STORM 2077`
-### *Full 2D Visual Battle Interface & Playable 60 FPS Canvas Game*
+## ⛏️ MINECRAFT 2D : `AADARSH'S SURVIVAL REALM`
+### *Interactive 2D Crafting & Mining GUI + Playable 60 FPS Sandbox Canvas*
 
 <p align="center">
-  <a href="https://aadarsh07.vercel.app/arcade.html">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20PLAYABLE%202D%20CANVAS%20ARCADE-CLICK%20TO%20PLAY%20NOW%20(DESKTOP%20%2B%20MOBILE)-ff0055?style=for-the-badge&logo=nintendogamecube&logoColor=white" alt="Play 2D Game" />
+  <a href="https://aadarsh07.vercel.app/minecraft.html">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20PLAYABLE%202D%20MINECRAFT%20CANVAS-CLICK%20TO%20PLAY%20NOW%20(BUILD%20%2B%20MINE%20%2B%20TNT)-22c55e?style=for-the-badge&logo=minecraft&logoColor=white" alt="Play 2D Minecraft" />
   </a>
 </p>
 
-<table align="center" width="100%" style="border: 2px solid #00f2fe; border-radius: 12px; background: #070913;">
+<table align="center" width="100%" style="border: 3px solid #577e37; border-radius: 12px; background: #14171c;">
   <tr>
     <td align="center">
 
 ```
 ========================================================================================
-   [2D BATTLE ARENA]                STAGE 01: NEURAL MAINFRAME                [ROUND 01]
+   [2D MINECRAFT GUI]              BIOME: PLAINS & CAVERNS             [DAY 01 · NOON]
 ========================================================================================
 
-           👾 CORPO MECHA-BOSS [LVL 99]
-           HP: [██████████████████░░] 85%  (850/1000)
-           STATUS: ⚡ QUANTUM FIREWALL CHARGING
-                  \   /
-                  (o.o)  <-- [2D CYBER DRAGON SPRITE]
-                 /|===|\
-                  /   \
+   HEALTH: ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️   HUNGER: 🍖 🍖 🍖 🍖 🍖 🍖 🍖 🍖 🍖 🍖
+   ACTIVE: ⛏️ DIAMOND PICKAXE [EFFICIENCY V]   XP LEVEL: [ 30 ] 🟢🟢🟢🟢🟢🟢🟢🟢
 
-   ----------------------------------------------------------------------------------
-   
-                                    🤖 NETRUNNER AADARSH [LVL 50]
-                                    HP: [████████████████████] 100% (500/500)
-                                    MP: [████████████████░░░░] 80%  (400/500)
-                                    WEAPON: ⚔️ DUAL PLASMA CANNONS
-                                           \ 0 /
-                                            |#|  <-- [2D HERO SPRITE]
-                                            / \
+   ☁️                      ☁️              ☀️  (SUN)
+                                     ☁️
+                                                        🌳 [OAK LEAVES]
+                                                        🪵 [OAK WOOD]
+   [STEVE 2D]                   [CREEPER 2D]            🪵
+     (o.o)                        [■ _ ■]               🪵
+     /|▓|\  ==⛏️                   [ |▓| ]              🪵
+      / \                          /   \                🪵
+   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 [SURFACE GRASS]
+   🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫 [DIRT LAYER]
+   ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ [STONE CRUST]
+   ⬛⬛💎💎⬛⬛⬛⬛🪙🪙⬛⬛⬛⬛⬛⬛🧨🧨⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ [DIAMOND & TNT VEINS]
 ========================================================================================
 ```
 
 <details>
-<summary><b>🕹️ ▶ [CHOOSE YOUR 2D COMBAT MOVE BELOW]</b></summary>
+<summary><b>🕹️ ▶ OPEN 3x3 CRAFTING TABLE & SURVIVAL COMMANDS [CLICK TO INTERACT]</b></summary>
 <br/>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <details>
-      <summary><b>⚡ MOVE 1: OVERCLOCK PLASMA CANNONS</b></summary>
+      <summary><b>🛠️ RECIPE 1: CRAFT DIAMOND SWORD</b></summary>
       <br/>
 
+```
+[3x3 CRAFTING GRID]
+[   ] [ 💎 ] [   ]
+[   ] [ 💎 ] [   ]  ===>  OUTPUT: ⚔️ [DIAMOND SWORD]
+[   ] [ 🪵 ] [   ]        ATTACK DAMAGE: +7
+```
+
 ```diff
-+ [CRITICAL 2D HIT!] 💥
-+ Dual plasma streams pierce through the Mecha-Boss's shields!
-+ DAMAGE DEALT: -250 HP!
-- Mecha-Boss retaliates with EMP Shockwave (-40 HP)!
-+ Boss HP remaining: [████████████░░░░░░] 60%
++ CRAFTING SUCCESSFUL!
++ [Diamond Sword] equipped to Slot 1!
++ Achievement Unlocked: [Time to Strike!]
 ```
 
 <details>
-<summary><b>🎯 SUB-COMBO: Unleash Murf Voice Sonic Wave</b></summary>
+<summary><b>💥 ENCOUNTER: A Creeper approaches: "Tsssssssss..."!</b></summary>
 <br/>
 
 ```diff
-+ [SONIC OVERLOAD!] Trilingual frequencies confuse boss AI!
-+ Mecha-Boss is STUNNED for 2 turns!
-+ Free turn granted! You access the core capacitor!
+! CRITICAL REFLEX: You strike with your freshly crafted Diamond Sword!
++ [CRITICAL HIT!] -10 Hearts to Creeper!
++ Creeper dropped: [2x Gunpowder, +5 XP Orbs]!
++ You survived the blast radius with 0 damage!
 ```
 
 <details>
-<summary><b>🏆 FINISHING BLOW: Deploy Aadarsh.OS Zero-Asset Synthesis!</b></summary>
+<summary><b>🎉 VICTORY: Enter Nether Portal with Diamond Gear!</b></summary>
 <br/>
 
 ```
   __________________________________________________________________________
  /                                                                          \
-|  💥 K.O.! THE CORPO MECHA-BOSS HAS COLLAPSED!                             |
+|  🟣 ★★★ NETHER PORTAL ACTIVATED: YOU ARE A MINECRAFT MASTER ★★★           |
 |                                                                           |
-|  You earned:                                                              |
-|  • +2,500 ARCADE XP                                                       |
-|  • 🏆 Title: "Master of 2D Cyber-Storm"                                   |
-|  • 🎮 UNLOCK FULL 60 FPS 2D ARCADE: Play in browser at:                   |
-|       https://aadarsh07.vercel.app/arcade.html                            |
+|  You mined the diamonds, crafted the gear, and conquered the 2D realm!   |
+|                                                                           |
+|  🎮 READY FOR REAL SANDBOX MINING?                                       |
+|  Jump into the live 2D canvas world with breaking, placing, and TNT:      |
+|  👉 https://aadarsh07.vercel.app/minecraft.html                          |
  \__________________________________________________________________________/
 ```
 <p align="center">
-  <a href="https://aadarsh07.vercel.app/arcade.html">
-    <img src="https://img.shields.io/badge/PLAY_FULL_2D_ARCADE_NOW-00f2fe?style=for-the-badge&logo=gamepad" alt="Play 2D Arcade Now"/>
+  <a href="https://aadarsh07.vercel.app/minecraft.html">
+    <img src="https://img.shields.io/badge/PLAY_FULL_MINECRAFT_2D_NOW-22c55e?style=for-the-badge&logo=minecraft" alt="Play 2D Minecraft Now"/>
   </a>
 </p>
 </details>
@@ -129,14 +133,20 @@
     </td>
     <td width="50%" align="center">
       <details>
-      <summary><b>🛡️ MOVE 2: ACTIVATE OBSIDIAN FIREWALL</b></summary>
+      <summary><b>🧨 RECIPE 2: CRAFT TNT BLOCK</b></summary>
       <br/>
 
+```
+[3x3 CRAFTING GRID]
+[ 💨 ] [ 🟨 ] [ 💨 ]
+[ 🟨 ] [ 💨 ] [ 🟨 ]  ===>  OUTPUT: 🧨 [TNT BLOCK]
+[ 💨 ] [ 🟨 ] [ 💨 ]        EXPLOSION RADIUS: 4 BLOCKS
+```
+
 ```diff
-! Obsidian Glass Shield Deployed (Aadarsh.OS Studio Dark Protocol)!
-+ Damage blocked: 100%!
-+ Stored energy converted to Mana (+100 MP)!
-+ Next attack deals 2x Multiplier!
++ CRAFTED: [1x TNT Block]!
++ Place TNT on stone and strike with Flint & Steel!
+! KABOOM! Revealed 8x Diamond Ores in the crater!
 ```
       </details>
     </td>
@@ -144,25 +154,27 @@
   <tr>
     <td width="50%" align="center">
       <details>
-      <summary><b>🧪 MOVE 3: INJECT NANO-REPAIR STIM</b></summary>
+      <summary><b>⛏️ ACTION 3: STRIP-MINE AT Y = -58 (DIAMONDS)</b></summary>
       <br/>
 
 ```diff
-+ Nano-bots deployed!
-+ Restored: +150 HP!
-+ All debuffs and malware cleared!
++ Mined through Deepslate...
++ Found Vein: 💎💎💎 (3x Raw Diamonds)!
++ Pickaxe Fortune III triggered: Dropped 6x Diamonds!
++ Inventory: [💎 x6, 🪨 x64, 🪙 x12 Iron Ore]
 ```
       </details>
     </td>
     <td width="50%" align="center">
       <details>
-      <summary><b>🌌 MOVE 4: WARP INTO 3D SOLAR DESKTOP</b></summary>
+      <summary><b>🍖 ACTION 4: COOK STEAK OVER CAMPFIRE</b></summary>
       <br/>
 
 ```diff
-+ You shift dimensional coordinates into Aadarsh.OS!
-+ Mecha-Boss loses targeting tracking!
-+ You flank from behind and secure the victory loot!
++ Campfire ignited using Flint!
++ 3x Raw Beef sizzling...
++ Restored: 🍖🍖🍖🍖 (Full Hunger Bar)!
++ Health regeneration active!
 ```
       </details>
     </td>
@@ -194,8 +206,8 @@ aadarsh@aadarsh-dev:~$ neofetch --system-specs
      \  _  /      ACADEMICS   : Class 11 · CBSE · PCM (94.8% in Class 10 Board)
       `---`       SPECIALTY   : Agentic AI Systems, 3D Web Audio Engines, CBT Testing Platforms
                   SHELL       : zsh / React 19 / TypeScript 5.8 / Vite 8 / Python 3.12
-                  ARCADE      : 2D Canvas Retro Engine @ /arcade.html (60 FPS)
-                  UPTIME      : Constantly shipping projects & experimenting with AI
+                  MINECRAFT   : 2D Canvas Sandbox @ /minecraft.html (60 FPS)
+                  UPTIME      : Constantly building, mining & shipping innovative software
                   QUOTE       : "Don't just use technology. Understand it, build with it,
                                 and use it to make something genuinely impactful."
 ```
@@ -352,15 +364,15 @@ aadarsh@aadarsh-dev:~$ neofetch --system-specs
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AadarshJain07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=a855f7&text_color=94a3b8" alt="GitHub Stats" width="415px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AadarshJain07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=a855f7&text_color=94a3b8" alt="GitHub Stats" width="415px" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadarshJain07&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=a855f7&currStreakLabel=00f2fe" alt="GitHub Streak" width="415px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadarshJain07&theme=tokyonight&hide_border=true&background=0d1117&ring=4ade80&fire=a855f7&currStreakLabel=4ade80" alt="GitHub Streak" width="415px" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadarshJain07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=94a3b8" alt="Top Languages" width="390px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadarshJain07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=94a3b8" alt="Top Languages" width="390px" />
     </td>
   </tr>
 </table>
@@ -413,7 +425,7 @@ I'm always hyped to discuss **AI agent architectures, hackathon collaborations, 
   </a>
   &nbsp;
   <a href="https://aadarsh07.vercel.app/">
-    <img src="https://img.shields.io/badge/AADARSH.OS-000000?style=for-the-badge&logo=safari&logoColor=00f2fe" alt="Portfolio OS" />
+    <img src="https://img.shields.io/badge/AADARSH.OS-000000?style=for-the-badge&logo=safari&logoColor=4ade80" alt="Portfolio OS" />
   </a>
   &nbsp;
   <a href="mailto:jaadarsh.007@gmail.com">
@@ -429,5 +441,5 @@ I'm always hyped to discuss **AI agent architectures, hackathon collaborations, 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,38&height=110&section=footer" width="100%" alt="Footer Wave" />
-  <p><sub>⚡ <i>"Don't just use technology. Understand it, build with it, and use it to make something better."</i> — <b>Aadarsh Jain</b></sub></p>
+  <p><sub>⛏️ <i>"Don't just use technology. Understand it, build with it, and use it to make something better."</i> — <b>Aadarsh Jain</b></sub></p>
 </div>
