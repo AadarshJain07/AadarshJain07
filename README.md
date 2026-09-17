@@ -1,24 +1,25 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!-- DYNAMIC CYBERPUNK / MINECRAFT HEADER BANNER                        -->
+<!-- DYNAMIC CYBERPUNK & GRANDMASTER HEADER BANNER                      -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,38&height=240&section=header&text=AADARSH%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%2016yo%20Student%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Minecraft%20Architect%20%E2%9A%A1&descAlignY=58&descAlign=50&descSize=19&animation=fadeIn" width="100%" alt="Aadarsh Jain Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,38&height=240&section=header&text=AADARSH%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%2016yo%20Student%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Chess%20Champion%20%E2%99%9F&descAlignY=58&descAlign=50&descSize=19&animation=fadeIn" width="100%" alt="Aadarsh Jain Banner" />
 
 <!-- DYNAMIC TYPING TERMINAL -->
 <a href="https://aadarsh07.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=4ADE80&center=true&vCenter=true&multiline=false&width=750&height=48&lines=%E2%96%B6+Class+11+PCM+Student+from+Madhya+Pradesh%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%B6+Building+Next-Gen+AI+Agents%2C+Full-Stack+Apps+%26+3D+Experiences;%E2%96%B6+Crafting+in+2D+Minecraft+%26+Coding+at+aadarsh07.vercel.app;%E2%96%B6+Semi-Finalist+%40+Thrizll+%7C+Finalist+%40+Bharat+Innovation;%E2%96%B6+Winner+%E2%99%9F+Inter-School+Chess+Championship;%E2%96%B6+Play+2D+Minecraft+below+directly+in+browser!" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=48&lines=%E2%96%B6+Class+11+PCM+Student+from+Madhya+Pradesh%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%B6+1st+Place+%F0%9F%8F%86+Inter-School+Chess+Championship+Winner;%E2%96%B6+Play+Chess+with+me+below!+Click+any+move+to+play;%E2%96%B6+Building+Next-Gen+AI+Agents%2C+Full-Stack+Apps+%26+3D+OSs;%E2%96%B6+Semi-Finalist+%40+Thrizll+%7C+Finalist+%40+Bharat+Innovation;%E2%96%B6+Boot+into+my+digital+universe+at+aadarsh07.vercel.app" alt="Typing Banner" />
 </a>
 
 <br/>
 
 <!-- STATUS BADGES & TELEMETRY -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-SURVIVAL_MODE_%E2%9A%94%EF%B8%8F-22c55e?style=for-the-badge" alt="Status"/>
-  <a href="https://aadarsh07.vercel.app/minecraft.html"><img src="https://img.shields.io/badge/%E2%9B%8F%EF%B8%8F_PLAY_MINECRAFT_2D-60_FPS_CANVAS-facc15?style=for-the-badge&logo=minecraft&logoColor=black" alt="Play 2D Minecraft"/></a>
+  <img src="https://img.shields.io/badge/CHESS_TITLE-INTER--SCHOOL_CHAMPION_%F0%9F%8F%86-ffd700?style=for-the-badge&logo=lichess&logoColor=black" alt="Chess Champion"/>
+  <a href="#-play-chess-with-me-live-on-my-profile"><img src="https://img.shields.io/badge/%E2%99%9F_PLAY_CHESS-CLICK_TO_MOVE-38bdf8?style=for-the-badge" alt="Play Chess"/></a>
   <a href="https://aadarsh07.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO_OS-aadarsh07.vercel.app-00f2fe?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/></a>
   <a href="https://linkedin.com/in/itsmeaadarsh"><img src="https://img.shields.io/badge/LINKEDIN-itsmeaadarsh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AadarshJain07&label=WORLD_VISITORS&color=4ade80&style=for-the-badge" alt="Visitor Counter"/>
+  <a href="mailto:jaadarsh.007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-jaadarsh.007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=AadarshJain07&label=VISITORS&color=38bdf8&style=for-the-badge" alt="Visitor Counter"/>
 </p>
 
 ---
@@ -28,164 +29,186 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!-- ⛏️ 2D MINECRAFT WORLD & PLAYABLE SANDBOX ARCADE                     -->
+<!-- ♟️ PLAY CHESS WITH ME: LIVE ON GITHUB PROFILE                      -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## ⛏️ MINECRAFT 2D : `AADARSH'S SURVIVAL REALM`
-### *Interactive 2D Crafting & Mining GUI + Playable 60 FPS Sandbox Canvas*
+## ♟️ PLAY CHESS WITH ME : LIVE ON MY PROFILE!
+### *Challenge Inter-School Chess Champion Aadarsh Jain right here on GitHub!*
 
-<p align="center">
-  <a href="https://aadarsh07.vercel.app/minecraft.html">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20PLAYABLE%202D%20MINECRAFT%20CANVAS-CLICK%20TO%20PLAY%20NOW%20(BUILD%20%2B%20MINE%20%2B%20TNT)-22c55e?style=for-the-badge&logo=minecraft&logoColor=white" alt="Play 2D Minecraft" />
-  </a>
+<p>
+  <b>You are playing as ⚪ WHITE. Click any move link below to make your move!</b><br/>
+  <sub>Submitting the issue triggers a GitHub Action that plays Black's move and updates this README automatically.</sub>
 </p>
 
-<table align="center" width="100%" style="border: 3px solid #577e37; border-radius: 12px; background: #14171c;">
+<!-- BEGIN CHESS BOARD -->
+```
+      a    b    c    d    e    f    g    h
+   +----+----+----+----+----+----+----+----+
+ 8 | ♜  | ♞  | ♝  | ♛  | ♚  | ♝  | ♞  | ♜  | 8  ⚫ BLACK (Aadarsh Jain)
+   +----+----+----+----+----+----+----+----+
+ 7 | ♟  | ♟  | ♟  | ♟  | ♟  | ♟  | ♟  | ♟  | 7
+   +----+----+----+----+----+----+----+----+
+ 6 |    |    |    |    |    |    |    |    | 6
+   +----+----+----+----+----+----+----+----+
+ 5 |    |    |    |    |    |    |    |    | 5
+   +----+----+----+----+----+----+----+----+
+ 4 |    |    |    |    |    |    |    |    | 4
+   +----+----+----+----+----+----+----+----+
+ 3 |    |    |    |    |    |    |    |    | 3
+   +----+----+----+----+----+----+----+----+
+ 2 | ♙  | ♙  | ♙  | ♙  | ♙  | ♙  | ♙  | ♙  | 2  ⚪ WHITE (Your Turn to Move!)
+   +----+----+----+----+----+----+----+----+
+ 1 | ♖  | ♘  | ♗  | ♕  | ♔  | ♗  | ♘  | ♖  | 1
+   +----+----+----+----+----+----+----+----+
+      a    b    c    d    e    f    g    h
+```
+
+<p align="center">
+  <b>It's White's turn! Click a move to play:</b>
+</p>
+
+<table align="center">
   <tr>
-    <td align="center">
+    <th align="center">♙ Pawn Moves (Center & Flank)</th>
+    <th align="center">♘ Knight Moves</th>
+  </tr>
+  <tr>
+    <td>
+      • <a href="https://github.com/AadarshJain07/AadarshJain07/issues/new?title=Chess%3A+Move+e2+to+e4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title."><b>e2 to e4</b> (King's Pawn)</a><br/>
+      • <a href="https://github.com/AadarshJain07/AadarshJain07/issues/new?title=Chess%3A+Move+d2+to+d4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title."><b>d2 to d4</b> (Queen's Pawn)</a><br/>
+      • <a href="https://github.com/AadarshJain07/AadarshJain07/issues/new?title=Chess%3A+Move+c2+to+c4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title."><b>c2 to c4</b> (English Opening)</a><br/>
+      • <a href="https://github.com/AadarshJain07/AadarshJain07/issues/new?title=Chess%3A+Move+f2+to+f4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title."><b>f2 to f4</b> (Bird's Opening)</a>
+    </td>
+    <td>
+      • <a href="https://github.com/AadarshJain07/AadarshJain07/issues/new?title=Chess%3A+Move+g1+to+f3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title."><b>g1 to f3</b> (Réti Opening)</a><br/>
+      • <a href="https://github.com/AadarshJain07/AadarshJain07/issues/new?title=Chess%3A+Move+b1+to+c3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title."><b>b1 to c3</b> (Dunst Opening)</a><br/>
+      • <a href="https://github.com/AadarshJain07/AadarshJain07/issues/new?title=Chess%3A+Move+b1+to+a3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title."><b>b1 to a3</b> (Sodium Attack)</a><br/>
+      • <a href="https://github.com/AadarshJain07/AadarshJain07/issues/new?title=Chess%3A+Move+g1+to+h3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title."><b>g1 to h3</b> (Ammonia Opening)</a>
+    </td>
+  </tr>
+</table>
 
-```
-========================================================================================
-   [2D MINECRAFT GUI]              BIOME: PLAINS & CAVERNS             [DAY 01 · NOON]
-========================================================================================
+<p align="center">
+  <a href="https://github.com/AadarshJain07/AadarshJain07/issues/new?title=Chess%3A+Start+new+game&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.">
+    <img src="https://img.shields.io/badge/%E2%99%BB%EF%B8%8F_START_NEW_GAME-RESET_BOARD-red?style=for-the-badge" alt="Start New Game"/>
+  </a>
+</p>
+<!-- END CHESS BOARD -->
 
-   HEALTH: ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️   HUNGER: 🍖 🍖 🍖 🍖 🍖 🍖 🍖 🍖 🍖 🍖
-   ACTIVE: ⛏️ DIAMOND PICKAXE [EFFICIENCY V]   XP LEVEL: [ 30 ] 🟢🟢🟢🟢🟢🟢🟢🟢
-
-   ☁️                      ☁️              ☀️  (SUN)
-                                     ☁️
-                                                        🌳 [OAK LEAVES]
-                                                        🪵 [OAK WOOD]
-   [STEVE 2D]                   [CREEPER 2D]            🪵
-     (o.o)                        [■ _ ■]               🪵
-     /|▓|\  ==⛏️                   [ |▓| ]              🪵
-      / \                          /   \                🪵
-   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 [SURFACE GRASS]
-   🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫 [DIRT LAYER]
-   ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ [STONE CRUST]
-   ⬛⬛💎💎⬛⬛⬛⬛🪙🪙⬛⬛⬛⬛⬛⬛🧨🧨⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ [DIAMOND & TNT VEINS]
-========================================================================================
-```
-
-<details>
-<summary><b>🕹️ ▶ OPEN 3x3 CRAFTING TABLE & SURVIVAL COMMANDS [CLICK TO INTERACT]</b></summary>
 <br/>
+
+<!-- INSTANT IN-README INTERACTIVE MOVE SIMULATOR -->
+<details>
+<summary><b>⚡ OR PLAY AN INSTANT MATCH RIGHT NOW WITHOUT OPENING AN ISSUE [CLICK TO EXPAND]</b></summary>
+<br/>
+
+> 💡 *Want instant gratification? Click through famous opening lines right here in Markdown:*
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <details>
-      <summary><b>🛠️ RECIPE 1: CRAFT DIAMOND SWORD</b></summary>
+      <summary><b>⚪ 1. e4 (King's Pawn Opening)</b></summary>
       <br/>
 
-```
-[3x3 CRAFTING GRID]
-[   ] [ 💎 ] [   ]
-[   ] [ 💎 ] [   ]  ===>  OUTPUT: ⚔️ [DIAMOND SWORD]
-[   ] [ 🪵 ] [   ]        ATTACK DAMAGE: +7
-```
-
 ```diff
-+ CRAFTING SUCCESSFUL!
-+ [Diamond Sword] equipped to Slot 1!
-+ Achievement Unlocked: [Time to Strike!]
++ 1. e4! Aadarsh responds with 1... e5 (Open Game)!
 ```
-
+```
+      a    b    c    d    e    f    g    h
+   +----+----+----+----+----+----+----+----+
+ 8 | ♜  | ♞  | ♝  | ♛  | ♚  | ♝  | ♞  | ♜  | 8
+ 7 | ♟  | ♟  | ♟  | ♟  |    | ♟  | ♟  | ♟  | 7
+ 6 |    |    |    |    |    |    |    |    | 6
+ 5 |    |    |    |    | ♟  |    |    |    | 5  ⚫ Black: 1... e5
+ 4 |    |    |    |    | ♙  |    |    |    | 4  ⚪ White: 1. e4
+ 3 |    |    |    |    |    |    |    |    | 3
+ 2 | ♙  | ♙  | ♙  | ♙  |    | ♙  | ♙  | ♙  | 2
+ 1 | ♖  | ♘  | ♗  | ♕  | ♔  | ♗  | ♘  | ♖  | 1
+```
 <details>
-<summary><b>💥 ENCOUNTER: A Creeper approaches: "Tsssssssss..."!</b></summary>
+<summary><b>▶ Play 2. Nf3 (Attack e5)</b></summary>
 <br/>
 
 ```diff
-! CRITICAL REFLEX: You strike with your freshly crafted Diamond Sword!
-+ [CRITICAL HIT!] -10 Hearts to Creeper!
-+ Creeper dropped: [2x Gunpowder, +5 XP Orbs]!
-+ You survived the blast radius with 0 damage!
++ 2. Nf3! Aadarsh plays 2... Nc6 (Defends e5 pawn).
 ```
-
 <details>
-<summary><b>🎉 VICTORY: Enter Nether Portal with Diamond Gear!</b></summary>
+<summary><b>▶ Play 3. Bc4 (The Italian Game)</b></summary>
 <br/>
 
+```diff
++ 3. Bc4! Classical Italian Game!
++ Black plays 3... Bc5 (Giuoco Piano).
++ Position is equal, sharp, and full of tactical fireworks! ♟️
 ```
-  __________________________________________________________________________
- /                                                                          \
-|  🟣 ★★★ NETHER PORTAL ACTIVATED: YOU ARE A MINECRAFT MASTER ★★★           |
-|                                                                           |
-|  You mined the diamonds, crafted the gear, and conquered the 2D realm!   |
-|                                                                           |
-|  🎮 READY FOR REAL SANDBOX MINING?                                       |
-|  Jump into the live 2D canvas world with breaking, placing, and TNT:      |
-|  👉 https://aadarsh07.vercel.app/minecraft.html                          |
- \__________________________________________________________________________/
+</details>
+
+<details>
+<summary><b>▶ Play 3. Bb5 (The Ruy Lopez / Spanish Opening)</b></summary>
+<br/>
+
+```diff
++ 3. Bb5! The Grandmaster favorite Ruy Lopez!
++ Black plays 3... a6 (Morphy Defense).
 ```
-<p align="center">
-  <a href="https://aadarsh07.vercel.app/minecraft.html">
-    <img src="https://img.shields.io/badge/PLAY_FULL_MINECRAFT_2D_NOW-22c55e?style=for-the-badge&logo=minecraft" alt="Play 2D Minecraft Now"/>
-  </a>
-</p>
 </details>
 
 </details>
 
+<details>
+<summary><b>▶ Play 2. f4 (The King's Gambit)</b></summary>
+<br/>
+
+```diff
++ 2. f4! Aggressive Romantic-era sacrifice!
++ Black plays 2... exf4 (Gambit Accepted)! Wild open game begins!
+```
+</details>
+
       </details>
     </td>
     <td width="50%" align="center">
       <details>
-      <summary><b>🧨 RECIPE 2: CRAFT TNT BLOCK</b></summary>
-      <br/>
-
-```
-[3x3 CRAFTING GRID]
-[ 💨 ] [ 🟨 ] [ 💨 ]
-[ 🟨 ] [ 💨 ] [ 🟨 ]  ===>  OUTPUT: 🧨 [TNT BLOCK]
-[ 💨 ] [ 🟨 ] [ 💨 ]        EXPLOSION RADIUS: 4 BLOCKS
-```
-
-```diff
-+ CRAFTED: [1x TNT Block]!
-+ Place TNT on stone and strike with Flint & Steel!
-! KABOOM! Revealed 8x Diamond Ores in the crater!
-```
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <details>
-      <summary><b>⛏️ ACTION 3: STRIP-MINE AT Y = -58 (DIAMONDS)</b></summary>
+      <summary><b>⚪ 1. d4 (Queen's Pawn Opening)</b></summary>
       <br/>
 
 ```diff
-+ Mined through Deepslate...
-+ Found Vein: 💎💎💎 (3x Raw Diamonds)!
-+ Pickaxe Fortune III triggered: Dropped 6x Diamonds!
-+ Inventory: [💎 x6, 🪨 x64, 🪙 x12 Iron Ore]
++ 1. d4! Aadarsh responds with 1... d5 (Closed Game).
 ```
-      </details>
-    </td>
-    <td width="50%" align="center">
-      <details>
-      <summary><b>🍖 ACTION 4: COOK STEAK OVER CAMPFIRE</b></summary>
-      <br/>
+```
+      a    b    c    d    e    f    g    h
+ 5 |    |    |    | ♟  |    |    |    |    | 5  ⚫ Black: 1... d5
+ 4 |    |    |    | ♙  |    |    |    |    | 4  ⚪ White: 1. d4
+```
+<details>
+<summary><b>▶ Play 2. c4 (The Queen's Gambit)</b></summary>
+<br/>
 
 ```diff
-+ Campfire ignited using Flint!
-+ 3x Raw Beef sizzling...
-+ Restored: 🍖🍖🍖🍖 (Full Hunger Bar)!
-+ Health regeneration active!
++ 2. c4! The Queen's Gambit!
++ Black plays 2... e6 (Queen's Gambit Declined - Solid defense).
++ White controls the center with long-term strategic pressure!
 ```
+</details>
+
+<details>
+<summary><b>▶ Play 2. Nf3 (London System / Classical)</b></summary>
+<br/>
+
+```diff
++ 2. Nf3! Solid development towards the London System!
+```
+</details>
+
       </details>
     </td>
   </tr>
 </table>
 
 </details>
-
-    </td>
-  </tr>
-</table>
 
 </div>
 
@@ -204,10 +227,10 @@ aadarsh@aadarsh-dev:~$ neofetch --system-specs
      /     \      CLASS       : 16yo Student Developer & AI Architect
     | () () |     BASE        : Madhya Pradesh, India 🇮🇳
      \  _  /      ACADEMICS   : Class 11 · CBSE · PCM (94.8% in Class 10 Board)
-      `---`       SPECIALTY   : Agentic AI Systems, 3D Web Audio Engines, CBT Testing Platforms
+      `---`       HONORS      : 1st Place Winner — Inter-School Chess Championship 🏆
+                  SPECIALTY   : Agentic AI Systems, 3D Web Audio Engines, CBT Testing Platforms
                   SHELL       : zsh / React 19 / TypeScript 5.8 / Vite 8 / Python 3.12
-                  MINECRAFT   : 2D Canvas Sandbox @ /minecraft.html (60 FPS)
-                  UPTIME      : Constantly building, mining & shipping innovative software
+                  TACTICS     : Calculating candidate moves & eliminating structural weaknesses
                   QUOTE       : "Don't just use technology. Understand it, build with it,
                                 and use it to make something genuinely impactful."
 ```
@@ -216,17 +239,17 @@ aadarsh@aadarsh-dev:~$ neofetch --system-specs
 
 ---
 
-## 🏆 National Hackathons & Battle Honors
+## 🏆 National Hackathons & Championship Honors
 
 <div align="center">
 
 | Competition | Milestone | Project Engineered | Core Breakthrough |
 | :--- | :---: | :--- | :--- |
+| **Inter-School Championship** | 🏆 **1st Place (Winner)** | **Competitive Chess** | Tactical foresight, candidate move pruning, and strategic composure |
 | **Thrizll: Build to Bond** | 🥈 **Semi-Finalist** | **SoulLink** | Multi-factor AI compatibility engine analyzing voice cadence & mood |
 | **Bharat Innovation Challenge** | 🥇 **Finalist** | **ShramSathi** | AI digital ID, wage tracking & welfare pipeline for India's workforce |
 | **KIIT Ideathon** | 🌟 **Finalist** | **EcoSnap** | Gamified sustainability engine with daily eco missions & streak mechanics |
 | **Murf AI 10-Day Voice Sprint** | 🎯 **Selected Builder** | **Revora AI** | Real-time voice agent using LiveKit, Murf Falcon TTS & Debate Mode |
-| **Inter-School Championship** | 🏆 **1st Place (Winner)** | **Competitive Chess** | Tactical foresight, candidate move pruning, and strategic composure |
 | **CBSE Board Examinations** | 🎖️ **94.8% Distinction** | **Class 10 Board** | Academic consistency across Mathematics, Science & Computer Tech |
 
 </div>
@@ -364,15 +387,15 @@ aadarsh@aadarsh-dev:~$ neofetch --system-specs
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AadarshJain07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=a855f7&text_color=94a3b8" alt="GitHub Stats" width="415px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AadarshJain07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" alt="GitHub Stats" width="415px" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadarshJain07&theme=tokyonight&hide_border=true&background=0d1117&ring=4ade80&fire=a855f7&currStreakLabel=4ade80" alt="GitHub Streak" width="415px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadarshJain07&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=a855f7&currStreakLabel=38bdf8" alt="GitHub Streak" width="415px" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadarshJain07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=94a3b8" alt="Top Languages" width="390px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadarshJain07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="390px" />
     </td>
   </tr>
 </table>
@@ -404,9 +427,9 @@ aadarsh@aadarsh-dev:~$ neofetch --system-specs
 Want to test some hidden Easter eggs inside **[Aadarsh.OS](https://aadarsh07.vercel.app/)**? Open the OS terminal and punch in:
 
 ```bash
+chess      # Spawns a playable interactive mini-chess engine right in the shell
 dev        # Unlocks the secret Aadarsh Developer Mode & HUD
 matrix     # Fires full-screen Cyberpunk emerald matrix digital rain
-chess      # Spawns a playable interactive mini-chess engine right in the shell
 perf       # Displays real-time framerate & Web Audio oscillator telemetry
 coffee     # Brews fresh virtual hot chai for late-night hacking sessions
 ```
@@ -425,7 +448,7 @@ I'm always hyped to discuss **AI agent architectures, hackathon collaborations, 
   </a>
   &nbsp;
   <a href="https://aadarsh07.vercel.app/">
-    <img src="https://img.shields.io/badge/AADARSH.OS-000000?style=for-the-badge&logo=safari&logoColor=4ade80" alt="Portfolio OS" />
+    <img src="https://img.shields.io/badge/AADARSH.OS-000000?style=for-the-badge&logo=safari&logoColor=38bdf8" alt="Portfolio OS" />
   </a>
   &nbsp;
   <a href="mailto:jaadarsh.007@gmail.com">
@@ -441,5 +464,5 @@ I'm always hyped to discuss **AI agent architectures, hackathon collaborations, 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,38&height=110&section=footer" width="100%" alt="Footer Wave" />
-  <p><sub>⛏️ <i>"Don't just use technology. Understand it, build with it, and use it to make something better."</i> — <b>Aadarsh Jain</b></sub></p>
+  <p><sub>♟️ <i>"Don't just use technology. Understand it, build with it, and use it to make something better."</i> — <b>Aadarsh Jain</b></sub></p>
 </div>
