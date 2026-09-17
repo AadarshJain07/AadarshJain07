@@ -16,8 +16,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-IN_THE_ZONE_%F0%9F%94%A5-ff0055?style=for-the-badge" alt="Status"/>
   <a href="https://aadarsh07.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO_OS-aadarsh07.vercel.app-00f2fe?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/></a>
+  <a href="https://aadarsh07.vercel.app/arcade.html"><img src="https://img.shields.io/badge/%F0%9F%94%A5_PLAY_2D_ARCADE-60_FPS_CANVAS-ffd700?style=for-the-badge&logo=gamepad&logoColor=black" alt="Play 2D Arcade"/></a>
   <a href="https://linkedin.com/in/itsmeaadarsh"><img src="https://img.shields.io/badge/LINKEDIN-itsmeaadarsh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jaadarsh.007@gmail.com"><img src="https://img.shields.io/badge/DISPATCH_EMAIL-jaadarsh.007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=AadarshJain07&label=PORTAL_VISITORS&color=00f2fe&style=for-the-badge" alt="Visitor Counter"/>
 </p>
 
@@ -28,139 +28,154 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!-- 🕹️ PLAYABLE GITHUB ARCADE: CYBER-HEIST (OP MINIGAME)                -->
+<!-- 🕹️ 2D RETRO ARCADE ARENA: PLAYABLE 2D GRAPHICAL COMBAT              -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <h2>🎮 <code>[CYBER-HEIST v2.077]</code> : INFILTRATE THE MAINFRAME</h2>
-  <p><b>⚡ An interactive playable RPG game running directly inside this README! No install required. Click below to begin your mission.</b></p>
-</div>
 
-<table align="center" width="100%">
-<tr>
-<td>
+## 👾 2D RETRO ARCADE ARENA : `CYBER-STORM 2077`
+### *Full 2D Visual Battle Interface & Playable 60 FPS Canvas Game*
+
+<p align="center">
+  <a href="https://aadarsh07.vercel.app/arcade.html">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20PLAYABLE%202D%20CANVAS%20ARCADE-CLICK%20TO%20PLAY%20NOW%20(DESKTOP%20%2B%20MOBILE)-ff0055?style=for-the-badge&logo=nintendogamecube&logoColor=white" alt="Play 2D Game" />
+  </a>
+</p>
+
+<table align="center" width="100%" style="border: 2px solid #00f2fe; border-radius: 12px; background: #070913;">
+  <tr>
+    <td align="center">
 
 ```
-  _________________________________________________________________________
- /                                                                         \
-|   [!] ALERT: CORPO AI QUANTUM CORE DETECTED AT IP://127.0.0.1:2077        |
-|   AGENT: Aadarsh_Operative | REPUTATION: 99.8% | CLASS: Elite Netrunner   |
-|   MISSION: Infiltrate Corpo Datavault, bypass firewalls & seize the core. |
- \_________________________________________________________________________/
+========================================================================================
+   [2D BATTLE ARENA]                STAGE 01: NEURAL MAINFRAME                [ROUND 01]
+========================================================================================
+
+           👾 CORPO MECHA-BOSS [LVL 99]
+           HP: [██████████████████░░] 85%  (850/1000)
+           STATUS: ⚡ QUANTUM FIREWALL CHARGING
+                  \   /
+                  (o.o)  <-- [2D CYBER DRAGON SPRITE]
+                 /|===|\
+                  /   \
+
+   ----------------------------------------------------------------------------------
+   
+                                    🤖 NETRUNNER AADARSH [LVL 50]
+                                    HP: [████████████████████] 100% (500/500)
+                                    MP: [████████████████░░░░] 80%  (400/500)
+                                    WEAPON: ⚔️ DUAL PLASMA CANNONS
+                                           \ 0 /
+                                            |#|  <-- [2D HERO SPRITE]
+                                            / \
+========================================================================================
 ```
 
 <details>
-<summary><b>🕹️ ▶ CLICK HERE TO INITIALIZE MISSION [START GAME]</b></summary>
+<summary><b>🕹️ ▶ [CHOOSE YOUR 2D COMBAT MOVE BELOW]</b></summary>
 <br/>
 
-> 📟 **HQ DISPATCH:** *"Agent, you’re connected to the edge port of the Neural Datavault. A high-voltage **Corpo ICE Barrier** is pulsing around the gateway. What is your entry vector?"*
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <details>
+      <summary><b>⚡ MOVE 1: OVERCLOCK PLASMA CANNONS</b></summary>
+      <br/>
 
-<br/>
+```diff
++ [CRITICAL 2D HIT!] 💥
++ Dual plasma streams pierce through the Mecha-Boss's shields!
++ DAMAGE DEALT: -250 HP!
+- Mecha-Boss retaliates with EMP Shockwave (-40 HP)!
++ Boss HP remaining: [████████████░░░░░░] 60%
+```
 
 <details>
-<summary><b>🔹 Option A: Launch Zero-Day Neural Exploit [SYNTHESIS OVERCLOCK]</b></summary>
+<summary><b>🎯 SUB-COMBO: Unleash Murf Voice Sonic Wave</b></summary>
 <br/>
 
 ```diff
-+ [CRITICAL HIT!] Zero-Day Exploit bypassed Port 8080!
-+ The outer ICE collapses into digital stardust.
-+ Loot Acquired: [1x Neural Decryption Key]
++ [SONIC OVERLOAD!] Trilingual frequencies confuse boss AI!
++ Mecha-Boss is STUNNED for 2 turns!
++ Free turn granted! You access the core capacitor!
 ```
-> 🤖 **Encounter:** A **Level 5 Automated Defense Drone** emerges with active photon turrets!
-> 
-> *Choose your combat maneuver:*
 
 <details>
-<summary><b>⚔️ Maneuver 1: Override Drone AI with Murf Voice Protocol</b></summary>
-<br/>
-
-```diff
-+ [VOICE SYNC COMPLETE!]
-+ You speak in trilingual frequencies (English/Hindi/Hinglish).
-+ The Drone's neural model enters an infinite logic recursion!
-+ The Drone deactivates and serves as your ally!
-```
-> 🚪 **You stand at the INNER VAULT DOOR. The final Corpo Boss: "THE OVERSEER AI" awakens!**
-
-<details>
-<summary><b>⚡ FINAL BOSS BATTLE: Deploy Aadarsh.OS Master Protocol</b></summary>
+<summary><b>🏆 FINISHING BLOW: Deploy Aadarsh.OS Zero-Asset Synthesis!</b></summary>
 <br/>
 
 ```
   __________________________________________________________________________
  /                                                                          \
-|  🏆 ★★★ MISSION ACCOMPLISHED: MAINFRAME LIBERATED ★★★                      |
+|  💥 K.O.! THE CORPO MECHA-BOSS HAS COLLAPSED!                             |
 |                                                                           |
-|  You unleashed the 3D Procedural Audio Waveform & Zero-Asset Synthesis.  |
-|  The Overseer AI was overwhelmed by 60 FPS hardware-accelerated shaders! |
-|                                                                           |
-|  [STATS EARNED]                                                           |
-|  • Netrunner XP: +5,000                                                   |
-|  • Secret Achievement Unlocked: [GODLEVEL_EXPLORER]                       |
-|  • Easter Egg Code: "PORTAL2026" (Type this in aadarsh07.vercel.app CLI) |
+|  You earned:                                                              |
+|  • +2,500 ARCADE XP                                                       |
+|  • 🏆 Title: "Master of 2D Cyber-Storm"                                   |
+|  • 🎮 UNLOCK FULL 60 FPS 2D ARCADE: Play in browser at:                   |
+|       https://aadarsh07.vercel.app/arcade.html                            |
  \__________________________________________________________________________/
 ```
 <p align="center">
-  <b>🎉 Congratulations Operative! You beat Cyber-Heist!</b><br/>
-  <i>Leave a ⭐ on my repositories to claim your bounty!</i>
+  <a href="https://aadarsh07.vercel.app/arcade.html">
+    <img src="https://img.shields.io/badge/PLAY_FULL_2D_ARCADE_NOW-00f2fe?style=for-the-badge&logo=gamepad" alt="Play 2D Arcade Now"/>
+  </a>
 </p>
 </details>
 
-<details>
-<summary><b>🛡️ Maneuver 2: Attempt Direct Brute-Force Overload</b></summary>
-<br/>
+</details>
+
+      </details>
+    </td>
+    <td width="50%" align="center">
+      <details>
+      <summary><b>🛡️ MOVE 2: ACTIVATE OBSIDIAN FIREWALL</b></summary>
+      <br/>
 
 ```diff
-- [SYSTEM WARNING] The Overseer AI activated quantum shielding!
-! Damage Taken: -30 HP!
-+ You fall back to safety and fire your backup Web Audio pulse!
-+ Boss staggered! You open the vault just in time!
+! Obsidian Glass Shield Deployed (Aadarsh.OS Studio Dark Protocol)!
++ Damage blocked: 100%!
++ Stored energy converted to Mana (+100 MP)!
++ Next attack deals 2x Multiplier!
 ```
-</details>
-
-</details>
-
-<details>
-<summary><b>💨 Maneuver 2: EMP Pulse EMP Shockwave</b></summary>
-<br/>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <details>
+      <summary><b>🧪 MOVE 3: INJECT NANO-REPAIR STIM</b></summary>
+      <br/>
 
 ```diff
-+ Drone disabled! Power grid down. You sprint straight through into the vault!
++ Nano-bots deployed!
++ Restored: +150 HP!
++ All debuffs and malware cleared!
 ```
-</details>
-
-</details>
-
-<details>
-<summary><b>🔹 Option B: Social-Engineer Admin Credentials through Phishing Probe</b></summary>
-<br/>
+      </details>
+    </td>
+    <td width="50%" align="center">
+      <details>
+      <summary><b>🌌 MOVE 4: WARP INTO 3D SOLAR DESKTOP</b></summary>
+      <br/>
 
 ```diff
-! Access Granted: "Welcome back, Lead Engineer Aadarsh."
-+ Stealth Rating: 100% (Undetected)
-+ Acquired: [Corpo Security Clearance Card]
++ You shift dimensional coordinates into Aadarsh.OS!
++ Mecha-Boss loses targeting tracking!
++ You flank from behind and secure the victory loot!
 ```
-> 🚪 You walk right into the Datacenter without triggering any sirens. You successfully extract the project schematics! 🏆
-</details>
-
-<details>
-<summary><b>🔹 Option C: Jack directly into the Physical Fiber Line with bare cables</b></summary>
-<br/>
-
-```diff
-- [ZAP!] 440 Volts of raw electricity surges through your cyberdeck!
-! Health: 10/100 HP.
-+ But you triggered a system-wide kernel panic in the building!
-+ Doors unlocked automatically in fail-safe mode!
-```
-> 🏃‍♂️ You limp into the vault with the loot! High risk, legendary reward! ⚡
-</details>
-
-</details>
-
-</td>
-</tr>
+      </details>
+    </td>
+  </tr>
 </table>
+
+</details>
+
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -179,6 +194,7 @@ aadarsh@aadarsh-dev:~$ neofetch --system-specs
      \  _  /      ACADEMICS   : Class 11 · CBSE · PCM (94.8% in Class 10 Board)
       `---`       SPECIALTY   : Agentic AI Systems, 3D Web Audio Engines, CBT Testing Platforms
                   SHELL       : zsh / React 19 / TypeScript 5.8 / Vite 8 / Python 3.12
+                  ARCADE      : 2D Canvas Retro Engine @ /arcade.html (60 FPS)
                   UPTIME      : Constantly shipping projects & experimenting with AI
                   QUOTE       : "Don't just use technology. Understand it, build with it,
                                 and use it to make something genuinely impactful."
@@ -320,15 +336,15 @@ aadarsh@aadarsh-dev:~$ neofetch --system-specs
 
 ---
 
-## 📊 Live System Telemetry & Contribution Heatmap
+## 📊 Live System Telemetry & 2D Contribution Snake
 
 <div align="center">
 
-<!-- GITHUB CONTRIBUTION SNAKE ANIMATION -->
+<!-- 2D GITHUB CONTRIBUTION SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AadarshJain07/AadarshJain07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AadarshJain07/AadarshJain07/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AadarshJain07/AadarshJain07/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="2D GitHub Contribution Snake Game" src="https://raw.githubusercontent.com/AadarshJain07/AadarshJain07/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 <br/><br/>
