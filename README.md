@@ -41,7 +41,7 @@ aadarsh@aadarsh-os:~$ neofetch --system-specs --quantum-core
 ```ini
       .---.       OPERATIVE   : Aadarsh Jain (@AadarshJain07)
      /     \      CLASS       : 16-Year-Old Student Developer & AI Systems Architect
-    | () () |     LOCATION    : Madhya Pradesh, India 🇮🇳
+    |[o]-[o]|     LOCATION    : Madhya Pradesh, India 🇮🇳
      \  _  /      ACADEMICS   : Class 11 · CBSE · PCM (94.8% in Class 10 Board)
       `---`       CHAMPIONSHIP: 1st Place Winner — Inter-School Chess Championship 🏆
                   CORE STACK  : TypeScript · React 19 · Vite 8 · Three.js · Python · Supabase
