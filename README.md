@@ -463,6 +463,6 @@ I'm always hyped to discuss **AI agent architectures, hackathon collaborations, 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,38&height=110&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,38&height=110&section=footer" width="100%" alt="Footer Wave" /> 
   <p><sub>♟️ <i>"Don't just use technology. Understand it, build with it, and use it to make something better."</i> — <b>Aadarsh Jain</b></sub></p>
 </div>
