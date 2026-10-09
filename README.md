@@ -74,7 +74,7 @@ aadarsh@aadarsh-os:~$ neofetch --system-specs --quantum-core
 
 * 🌀 **3D Hyperspace Intro:** Full-screen Three.js WebGL particle warp tunnel, interactive quantum core, and spatial synthesizer upon boot.
 * 📱 **3D Hardware Morphing:** Seamlessly shift between **Smartphone**, **Tablet**, and **Laptop** (with functional mechanical keyboard keys) in spatial 3D with realistic drag-to-rotate physics.
-* 🏪 **Play Store & Mini-Games:** Built-in App Store marketplace to download and uninstall mini-games (*Cyber-Storm 2077 Arcade* & *Minecraft 2D Web Edition*) directly to the desktop home screen.
+* 🏪 **App Store & Mini-Games:** Built-in App Store marketplace to download and uninstall mini-games (*Cyber-Storm 2077 Arcade* & *Minecraft 2D Web Edition*) directly to the desktop home screen.
 * 📑 **Mobile 3-Button Multitasking:** Mobile-style navigation bar (`|||` Recents Switcher with running apps badge, `○` Home, `‹` Back) to switch between running windows effortlessly.
 * 🎹 **Zero-Asset Procedural Audio:** 100% synthesized in real-time with Web Audio API oscillators (0 external audio files) with 4 mechanical keyboard sound profiles (*Thock Brown, Clicky Blue, Creamy Linear, Minimal*).
 * 🎨 **7 Universe Themes & Skins:** Instant real-time aesthetic shifts (*Cyberpunk, Zelda, Mario, Minecraft, Portal, Pokemon, Studio Dark*).
@@ -82,7 +82,6 @@ aadarsh@aadarsh-os:~$ neofetch --system-specs --quantum-core
 
 <p align="center">
   <a href="https://aadarsh07.vercel.app/"><img src="https://img.shields.io/badge/BOOT_AADARSH.OS-LAUNCH_IN_BROWSER-00f2fe?style=for-the-badge&logo=safari&logoColor=black" alt="Boot OS"/></a>
-  <a href="https://github.com/AadarshJain07/aadarsh-os-the-digital-portal"><img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
 </p>
 
 <br/>
@@ -125,12 +124,12 @@ aadarsh@aadarsh-os:~$ neofetch --system-specs --quantum-core
       <p><b>Interactive 3D desktop operating system running natively in the browser.</b></p>
       <ul>
         <li><b>Hardware Morphing:</b> Laptop (3D mechanical keyboard), Tablet, and Phone with spatial parallax.</li>
-        <li><b>Play Store & Multitasking:</b> Download mini-games, manage desktop icons, and switch apps via <code>|||</code> 3-button nav.</li>
+        <li><b>App Store & Multitasking:</b> Download mini-games, manage desktop icons, and switch apps via <code>|||</code> 3-button nav.</li>
         <li><b>Procedural Audio:</b> Web Audio API synthesizer generating thock switches, boot hums, and UI chimes with 0 external MP3s.</li>
       </ul>
       <p>
         <a href="https://aadarsh07.vercel.app/"><img src="https://img.shields.io/badge/LIVE_OS-EXPLORE-00f2fe?style=flat-square&logo=vercel" alt="Demo"/></a>
-        <a href="https://github.com/AadarshJain07/aadarsh-os-the-digital-portal"><img src="https://img.shields.io/badge/REPO-SOURCE_CODE-100000?style=flat-square&logo=github" alt="Source"/></a>
+        <img src="https://img.shields.io/badge/STACK-React_19_·_Three.js-blue?style=flat-square" alt="Stack"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -302,7 +301,7 @@ Want to test hidden Easter eggs inside **[Aadarsh.OS](https://aadarsh07.vercel.a
 
 ```bash
 arcade     # Launches Cyber-Storm 2077 Retro Arcade space-runner shooter
-store      # Opens the built-in Play Store to browse & install mini-apps
+store      # Opens the built-in App Store to browse & install mini-apps
 matrix     # Fires full-screen Cyberpunk emerald matrix digital rain
 dev        # Unlocks the secret Aadarsh Developer Mode & HUD telemetry
 perf       # Displays real-time WebGL framerate & Web Audio oscillator status
