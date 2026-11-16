@@ -1,165 +1,129 @@
- <div align="center">
-
-# AADARSH JAIN
-
-**A student. A builder. A person who asks one question too many.**
-
-Madhya Pradesh, India · Class XI · PCM
-
-[Portfolio](https://aadarsh07.vercel.app) / [LinkedIn](https://linkedin.com/in/itsmeaadarsh) / [Email](mailto:jaadarsh.007@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" />
-
+<div align="center">
+  <img src="assets/hero.svg" width="100%" alt="Aadarsh Jain — independent builder, student, and curious mind" />
 </div>
+<div align="center">
+  <sub>INDIA · CLASS XI / PCM · CURRENTLY LEARNING IN PUBLIC</sub>
+  <br/><br/>
+  <a href="https://aadarsh07.vercel.app">PORTFOLIO</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/itsmeaadarsh">LINKEDIN</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:jaadarsh.007@gmail.com">SAY HELLO</a>
+</div>
+<div align="center">
+  <h2>THE SHORT VERSION</h2>
+  <p><em>I like figuring out how things work — then seeing how far I can take an idea.</em></p>
+</div>I'm Aadarsh, a student developer from Madhya Pradesh, India. I started coding out of curiosity, and it gradually became my favourite way to explore ideas.
 
-## A little about me.
+I build web experiences, experiment with interactive 3D, connect APIs, work with databases, and explore voice-based AI. Some projects are practical. Some are experiments. The common thread is that I want to understand what I'm making, not just make it look finished.
 
-I'm Aadarsh, a 16-year-old student from India.
-
-I got into coding because of my older brother. What started as curiosity slowly turned into a habit of building things.
-
-I like taking an idea, figuring out how it might actually work, and spending an unreasonable amount of time making the details feel right.
-
-Sometimes that means building a 3D desktop environment inside a browser. Sometimes it means working on a platform to help informal workers keep track of their wages.
-
-I'm still learning. That's probably my favourite part.
-
-<sub>Currently navigating Class XI · PCM · JEE 2028 · A lot of unfinished ideas.</sub>
-
----
-
-## Things I've put into the world.
-
-Not everything I build is a startup. Not everything needs to be revolutionary. Some things are experiments, some solve actual problems, and some exist simply because I wanted to know if I could make them.
-
-### 01 / Aadarsh.OS
-**A desktop operating system, except it lives inside a browser.**
-
-A 3D interactive environment with hardware morphing, a mini App Store, procedural audio, multitasking and a collection of different visual universes.
-
-Built with React, TypeScript, Three.js and Web Audio API.
-
-[ENTER AADARSH.OS ↗](https://aadarsh07.vercel.app)
-
-### 02 / ShramSathi
-**Making everyday work a little more accountable.**
-
-A digital work-record platform for informal workers, with worker IDs, wage tracking, attendance records and welfare information.
-
-Built around a simple idea: people should have a reliable record of the work they do and the money they're owed.
-
-[EXPLORE SHRAMSATHI ↗](https://shramsathi.vercel.app)
-
-*Finalist — Bharat Innovation Challenge.*
-
-### 03 / MPTET MasterPrep
-**A practice environment that feels like the actual examination.**
-
-A bilingual CBT mock-test platform with exam simulation, timers, question navigation, admit cards and performance analytics.
-
-React · Supabase · PostgreSQL
-
-[TRY THE PLATFORM ↗](https://mptet-bay.vercel.app)
-
-### 04 / Revora AI
-**Learning through conversation, not just another screen of text.**
-
-An English, Hindi and Hinglish voice-first learning companion. Built during the Murf AI voice sprint using LiveKit and Murf Falcon, with conversational learning and debate experiences.
-
-[VISIT REVORA ↗](https://revoraweb.vercel.app) · [SOURCE CODE ↗](https://github.com/AadarshJain07/revora-murf/tree/day10)
-
-### 05 / The Teacher's Day Book
-**A little digital keepsake.**
-
-An interactive 3D book made to appreciate teachers, with CSS page transformations, procedural paper sounds, a wax seal and small interactive details.
-
-[OPEN THE BOOK ↗](https://5sept.vercel.app)
-
-### 06 / Other experiments
-
-A few more things that deserve a place here:
-
-- [SoulLink](https://soullink-eight.vercel.app/) — An experiment in deeper digital connections. Semi-finalist at Thrizll: Build to Bond.
-- [EcoSnap](https://ecosnap-sand.vercel.app/) — A gamified sustainability platform. Finalist at KIIT Ideathon.
-- [TirthDarshan](https://tirthdarshan.vercel.app/) — An effort to document and preserve Jain heritage.
-
----
-
-## A few things I've learned outside the code editor.
-
-| What | Where |
-|---|---|
-| ♟ Chess | 1st place, Inter-School Chess Championship |
-| 📚 Academics | 94.8% in Class X CBSE |
-| 💡 Innovation | Bharat Innovation Challenge finalist |
-| 🌱 Building | KIIT Ideathon finalist |
-| 🎙️ Voice technology | Murf AI 10-Day Voice Sprint |
-
-I like chess for the same reason I like building software: thinking ahead matters, but knowing when to change your plan matters just as much.
-
----
-
-## The tools on my desk.
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css" />
-
-**Frontend & creative development**
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,figma" />
-
-**Backend & infrastructure**
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,cloudflare,vercel" />
-
-**Things I've explored**
-
-LiveKit · Murf Falcon · Web Audio API · LLM integrations · API integration
-
-I don't claim to know everything in this stack. Some tools I use regularly; others are things I'm still exploring.
-
----
-
-## A small window into my GitHub.
+I’m still learning. I intend to keep it that way.
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AadarshJain07&show_icons=true&hide_border=true&title_color=2563eb&text_color=777777&icon_color=2563eb&bg_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AadarshJain07&hide_border=true&background=ffffff&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AadarshJain07&bg_color=ffffff&color=333333&line=2563eb&point=2563eb&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## Outside the browser.
-
-Chess. Games. Books. Random rabbit holes on the internet.
-
-I enjoy understanding how things work, especially when they initially seem impossible to build.
-
-I'm interested in technology that is actually useful, not just technology that sounds impressive.
-
----
-
+  <img src="assets/coordinates.svg" width="100%" alt="A visual index of interests and current focus" />
+</div>SELECTED WORK / 01—06
+<sub>A few things I've made, each for a different reason.</sub>
+<table width="100%" border="0" cellpadding="12">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://aadarsh07.vercel.app">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0b0d&height=110&text=AADARSH.OS&fontSize=30&fontColor=ffffff&fontAlign=10&desc=A%20desktop%20inside%20a%20browser&descAlign=10&descAlignY=78&descSize=12" width="100%" alt="Aadarsh.OS" />
+      </a>
+      <sub>01 / INTERACTIVE ENVIRONMENT</sub>
+      <h3>A desktop that isn't a desktop.</h3>
+      A 3D browser-based environment with morphing devices, multitasking, mini-games, procedural audio and seven visual themes.
+      <br/><br/>
+      <a href="https://aadarsh07.vercel.app">OPEN THE EXPERIENCE ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://shramsathi.vercel.app">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=172b24&height=110&text=SHRAMSATHI&fontSize=28&fontColor=eaffdf&fontAlign=10&desc=Making work records visible&descAlign=10&descAlignY=78&descSize=12" width="100%" alt="ShramSathi" />
+      </a>
+      <sub>02 / SOCIAL IMPACT</sub>
+      <h3>Work should leave a record.</h3>
+      A digital work-record concept for informal workers: worker IDs, attendance, wage tracking and access to welfare information.
+      <br/><br/>
+      <a href="https://shramsathi.vercel.app">EXPLORE SHRAMSATHI ↗</a>
+      <br/><sub>Finalist — Bharat Innovation Challenge</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mptet-bay.vercel.app">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=17243a&height=110&text=MPTET%20MASTERPREP&fontSize=24&fontColor=eaf2ff&fontAlign=10&desc=A%20practice%20exam%20environment&descAlign=10&descAlignY=78&descSize=12" width="100%" alt="MPTET MasterPrep" />
+      </a>
+      <sub>03 / EXAM TECHNOLOGY</sub>
+      <h3>Practice that feels like the real thing.</h3>
+      A bilingual CBT mock-test platform with timed exams, question navigation, admit-card simulation and performance analytics.
+      <br/><br/>
+      <a href="https://mptet-bay.vercel.app">TRY THE PLATFORM ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://revoraweb.vercel.app">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=30203d&height=110&text=REVORA%20AI&fontSize=30&fontColor=f9eaff&fontAlign=10&desc=Learning through conversation&descAlign=10&descAlignY=78&descSize=12" width="100%" alt="Revora AI" />
+      </a>
+      <sub>04 / VOICE + LEARNING</sub>
+      <h3>What if learning talked back?</h3>
+      A voice-first learning companion supporting English, Hindi and Hinglish, built with LiveKit and Murf Falcon during a 10-day voice sprint.
+      <br/><br/>
+      <a href="https://revoraweb.vercel.app">VISIT REVORA ↗</a>
+      · <a href="https://github.com/AadarshJain07/revora-murf/tree/day10">CODE ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://5sept.vercel.app">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=3a2b18&height=110&text=THE%20TEACHER%27S%20DAY%20BOOK&fontSize=20&fontColor=fff1d4&fontAlign=10&desc=A%20digital%20keepsake&descAlign=10&descAlignY=78&descSize=12" width="100%" alt="Teacher's Day book" />
+      </a>
+      <sub>05 / CREATIVE CODE</sub>
+      <h3>A book made of code.</h3>
+      An interactive 3D digital book with CSS page transformations, procedural paper sounds, a wax seal and small details made to feel tangible.
+      <br/><br/>
+      <a href="https://5sept.vercel.app">TURN A PAGE ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tirthdarshan.vercel.app">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=26332f&height=110&text=TIRTHDARSHAN&fontSize=27&fontColor=e7f4e9&fontAlign=10&desc=An archive of Jain heritage&descAlign=10&descAlignY=78&descSize=12" width="100%" alt="TirthDarshan" />
+      </a>
+      <sub>06 / DIGITAL PRESERVATION</sub>
+      <h3>Places and stories worth preserving.</h3>
+      A project exploring how digital tools can document Jain heritage, temples, pilgrimage sites and historical information.
+      <br/><br/>
+      <a href="https://tirthdarshan.vercel.app">EXPLORE THE ARCHIVE ↗</a>
+    </td>
+  </tr>
+</table><details>
+  <summary><b>MORE EXPERIMENTS — open the drawer</b></summary>
+  <br/>- SoulLink — An experiment in deeper digital connections. Semi-finalist at Thrizll: Build to Bond.
+- EcoSnap — A gamified sustainability platform with daily eco missions and impact tracking. Finalist at KIIT Ideathon.
+- SadakSetu — An early-stage road-defect reporting concept for local communities.
+</details>THE WORKBENCH
+I don't want to turn a list of tools into a claim of expertise. These are the materials I've been learning with and building around.
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css,react,vite,tailwind,threejs,supabase,postgres,nodejs,cloudflare,vercel,figma&perline=8" alt="Technologies and tools" />
+</div>
+<sub>Also explored: LiveKit · Murf Falcon · Web Audio API · API integration · LLM workflows · Supabase Row Level Security</sub>
+A FEW OTHER THINGS THAT SHAPE HOW I THINK
+<div align="center">
+  <img src="assets/chess.svg" width="100%" alt="Chess-inspired visual composition" />
+</div>Chess — I won first place in an inter-school chess championship. I like the discipline of considering options, thinking ahead, and knowing when a plan needs to change.
 
-### Anyway, that's enough about me.
+Learning — I scored 94.8% in my Class X CBSE examinations. Currently in Class XI, studying Physics, Chemistry and Mathematics.
 
-**Have an interesting problem? An unusual idea? Something worth building?**
-
-I'd genuinely like to hear about it.
-
-[LET'S CONNECT ↗](https://linkedin.com/in/itsmeaadarsh)
-
-<br/>
-
-<sub>Made by Aadarsh Jain · Still learning. Still building. Still figuring things out.</sub>
-
+Curiosity — Games, books, design, technology and the occasional rabbit hole that starts with one question and ends much later.
+THE GITHUB WINDOW
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadarshJain07&bg_color=ffffff&color=242424&line=315efb&point=315efb&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AadarshJain07&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=315efb" height="150" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadarshJain07&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555" height="150" alt="Most used languages" />
+</div><div align="center">
+  <h2>STILL IN PROGRESS.</h2>
+  <p><em>And that's the point.</em></p>
+  <br/>
+  <a href="https://aadarsh07.vercel.app">THE PORTFOLIO ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/AadarshJain07">THE REPOSITORIES ↗</a>
+  <br/><br/>
+  <sub>Designed, written and maintained by Aadarsh Jain. No grand claims. Just the work.</sub>
 </div>
