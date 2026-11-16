@@ -377,18 +377,6 @@
 
 ---
 
-## ♟️ Chess & First-Principles Engineering
-
-In competitive chess, every move either strengthens your piece coordination or leaves an irreversible structural weakness. Engineering is the exact same game:
-
-- **Calculation Depth:** Visualizing candidate variations 3–5 moves ahead translates directly into modeling asynchronous state machines, race conditions, and error boundaries.
-- **Endgame Conversion:** The patience required to nurse a half-pawn positional edge into a win mirrors the discipline needed to eliminate memory leaks, optimize bundle sizes, and keep framerates locked at 60 FPS.
-- **The Routine:** Balancing Class 11 PCM mechanics (HC Verma), coordinate geometry, and physical chess with late-night coding.
-
-<br/>
-
----
-
 ## 📬 Connect & Collaborate
 
 Whether it's discussing **Android system internals, Three.js web graphics, civic tech projects, or a friendly game of rapid chess**, feel free to reach out:
