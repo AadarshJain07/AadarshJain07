@@ -1,342 +1,171 @@
-<div align="center">
+# Aadarsh Jain
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,38&height=240&section=header&text=AADARSH%20JAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=16yo%20Student%20Developer%20%C2%B7%20Class%2011%20PCM%20%C2%B7%20Competitive%20Chess%20Player%20%F0%9F%8F%86&descAlignY=60&descAlign=50&descSize=19&animation=fadeIn" width="100%" alt="Aadarsh Jain Banner" />
+**16-year-old student developer & systems builder from Madhya Pradesh, India.**  
+Class 11 CBSE (Physics, Chemistry, Mathematics) · 94.8% 10th Board Distinction · 1st Place Inter-School Chess Champion.
 
-<a href="https://aadarsh07.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=900&color=00F2FE&center=true&vCenter=true&multiline=false&width=840&height=46&lines=%E2%96%B6+16yo+Builder+from+Madhya+Pradesh%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%B6+Class+11+CBSE+PCM+%C2%B7+94.8%25+10th+Board+Distinction;%E2%96%B6+1st+Place+Gold+%F0%9F%8F%86+Inter-School+Chess+Championship;%E2%96%B6+65%2B+Verified+Certificates+on+Unstop+%C2%B7+National+Hackathons;%E2%96%B6+Building+from+first-principles%3A+3D+Web%2C+Android+Systems+%26+Engines;%E2%96%B6+Dual+Portfolios%3A+Aadarsh.OS+Desktop+%26+3D+Rotary+Switchboard" alt="Typing Banner" />
-</a>
-
-<br/>
-
-<p align="center">
-  <a href="https://aadarsh07.vercel.app"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-aadarsh07.vercel.app-00f2fe?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio"/></a>
-  <a href="https://unstop.com/u/aadarjai56791"><img src="https://img.shields.io/badge/UNSTOP-65%2B_CERTIFICATES-0284c7?style=for-the-badge&logo=unstop&logoColor=white" alt="Unstop Profile"/></a>
-  <a href="https://linkedin.com/in/itsmeaadarsh"><img src="https://img.shields.io/badge/LINKEDIN-itsmeaadarsh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jaadarsh.007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-jaadarsh.007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AadarshJain07&label=PROFILE_VIEWS&color=00f2fe&style=for-the-badge" alt="Visitor Counter"/>
-</p>
+[Live Portfolio](https://aadarsh07.vercel.app/) · [Unstop (65+ Verified Credentials)](https://unstop.com/u/aadarjai56791) · [LinkedIn](https://linkedin.com/in/itsmeaadarsh) · [Email](mailto:jaadarsh.007@gmail.com)
 
 ---
 
-</div>
+### The First-Principles Thesis
 
-<br/>
+> *"Most people interact with computers at the application layer. The fun begins when you pull back the abstraction and see the hardware, the audio oscillators, the memory buffers, and the physics underneath."*
 
-## ⚡ `$ cat profile.spec --first-principles`
-
-```ini
-  [HARDWARE & SYSTEM SPEC]
-  BUILDER      : Aadarsh Jain (@AadarshJain07)
-  AGE / CLASS  : 16 Years Old · Class 11 CBSE (PCM — Physics, Chemistry, Mathematics)
-  LOCATION     : Madhya Pradesh, India 🇮🇳
-  ACADEMICS    : 94.8% CBSE 10th Board Examinations (Science & Math Merit)
-  CHESS TITLE  : 1st Place Gold Trophy — Inter-School Rapid Chess Championship 🏆
-  CREDENTIALS  : 65+ Verified Competitions & Certificates on Unstop (@aadarjai56791)
-  CORE ENGINE  : TypeScript · React 19 · Three.js · Web Audio API · Android SDK · Python
-  AI TOOLING   : Claude · Gemini · Cursor · Antigravity · GitHub Copilot
-  FIRST LAW    : "Understand technology at the component and physics level. Don't copy tutorials—
-                 build from scratch, profile real bottlenecks, and make software actually useful."
-```
-
-<br/>
+I started coding at 14 because I wanted to understand how software and systems actually run behind the glass. Today, alongside daily Class 11 PCM studies (mechanics, coordinate geometry, and physical chemistry), I build high-performance web systems, native Android utilities, and practical civic tools from scratch.
 
 ---
 
-## 🌐 The Twin Portfolio Engines
+### Shipped Systems & Engineering Projects
 
-Rather than a static one-page website, my personal portfolio is built as two distinct, fully interactive systems running natively in the browser:
+#### 🏛️ Web Recreations & Heritage Portals
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://aadarsh07.vercel.app/os">
-          <img src="https://capsule-render.vercel.app/api?type=rect&color=0:091322,100:08090f&height=110&text=AADARSH.OS%20v2.5&fontSize=22&fontColor=00f2fe&desc=Interactive%203D%20Desktop%20%C2%B7%20Hardware%20Morphing&descSize=12&descAlignY=68" width="100%" alt="Aadarsh.OS Banner" />
-        </a>
-      </div>
-      <h3>🌌 <a href="https://aadarsh07.vercel.app/os">Aadarsh.OS — 3D Desktop Environment</a></h3>
-      <p><b>A complete interactive operating system in the browser:</b></p>
-      <ul>
-        <li><b>3D Hardware Morphing:</b> Seamlessly transforms between <b>Laptop</b> (with working 3D mechanical keys), <b>Tablet</b>, and <b>Smartphone</b> with real-time drag-to-rotate physics.</li>
-        <li><b>Zero-Asset Audio:</b> Web Audio API synthesizer generating thock switches, mechanical hums, and chimes in real-time with 0 KB audio download overhead.</li>
-        <li><b>Desktop Apps & Store:</b> Working App Store, Terminal with secret flags, window multi-tasking (<code>|||</code> nav), and 7 switchable universe themes.</li>
-      </ul>
-      <p>
-        <a href="https://aadarsh07.vercel.app/os"><img src="https://img.shields.io/badge/LAUNCH-AADARSH.OS-00f2fe?style=flat-square&logo=safari&logoColor=black" alt="Launch OS"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://aadarsh07.vercel.app/">
-          <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c140e,100:2b1d12&height=110&text=ROTARY%20SWITCHBOARD&fontSize=22&fontColor=f59e0b&desc=1930s%20Bakelite%20Phone%20%C2%B7%20Mechanical%20Gong&descSize=12&descAlignY=68" width="100%" alt="Rotary Switchboard Banner" />
-        </a>
-      </div>
-      <h3>☎️ <a href="https://aadarsh07.vercel.app/">1930s Rotary Telephone Switchboard</a></h3>
-      <p><b>Physical antique rotary telephone portfolio experience:</b></p>
-      <ul>
-        <li><b>Physics & Rotary Dialing:</b> Physically modeled bakelite telephone in Three.js with spring-return finger-wheel drag physics and pulse clicks.</li>
-        <li><b>Mechanical Twin-Gong:</b> Real-time frequency synthesis of authentic brass bells with continuous incoming call cadence and vibration.</li>
-        <li><b>10 Live Extensions:</b> Dial digits <b>1–0</b> to open the slide-out vintage dossier drawer for About, Shipped Projects, Academics, Chess, and Vault.</li>
-      </ul>
-      <p>
-        <a href="https://aadarsh07.vercel.app/"><img src="https://img.shields.io/badge/DIAL-ROTARY_PHONE-f59e0b?style=flat-square&logo=safari&logoColor=black" alt="Dial Phone"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+* **[Kundalpur · Shree Bade Baba](https://shreebadebaba.com/)**
+  * Modern re-creation and performance overhaul of the historic pilgrimage portal *shreebadebaba.com*.
+  * Features an interactive 6-stop 360° virtual parikrama tour with historical hotspot pins.
+  * Real-time Web Audio API sound engine synthesizing harmonic temple bell frequencies (432 Hz, 648 Hz, 864 Hz, 1296 Hz) with 0 KB audio download overhead.
+  * Live sanctum ledger for temple open/close status, morning abhishek timings, and evening aarti schedules with authentic bilingual Devanagari Hindi typography.
+  * *Stack: Next.js 15 · TypeScript · Tailwind CSS · Web Audio API · 360° Canvas*
 
-<br/>
+* **[Teacher’s Day Tribute (3D Book)](https://5sept.vercel.app/)**
+  * Artisanal 3D digital keepsake book honoring educators, engineered with pure CSS 3D transforms.
+  * Hardware-accelerated 3D book spine, gold filigree foil, and realistic page curls running locked at 60 FPS.
+  * Dual-layer white noise bandpass filters synthesize procedural paper rustle audio with zero external MP3s.
+  * *Stack: React · Tailwind CSS · CSS 3D Matrix · Web Audio API*
+
+* **[Teacher's Birthday Tribute](https://github.com/AadarshJain07)**
+  * Two-year evolving digital scrapbook and tribute built for my Class 10 CBSE mathematics teacher.
+  * Features real-time HTML5 canvas math physics, interactive 40-week confidence graph plotter, and tilted memory polaroids.
+  * *Stack: HTML5 Canvas · JavaScript · Web Audio API · CSS Keyframes*
+
+#### 🛣️ Civic & Social Utilities
+
+* **[SadakSetu (सड़कसेतु)](https://github.com/AadarshJain07)**
+  * Civic crowdsourcing platform addressing hazardous potholes and road defects in Indian cities.
+  * Geotagged hazard reporting with bounding-box map clustering on Leaflet.
+  * Offline-first local report queuing allowing citizens to log road hazards even in zero-reception transit zones.
+  * Municipal tracking dashboard with real-time status progression from *Reported* to *Under Repair* to *Fixed*.
+  * *Stack: React · TypeScript · Leaflet · Supabase · Offline Storage*
+
+* **[ShramSathi](https://shramsathi.vercel.app/)** — *Finalist @ Bharat Innovation Challenge*
+  * Digital Work ID, transparent daily wage ledger, and welfare scheme discovery for India's 400M+ informal workforce.
+  * Bilingual voice-assisted interface designed for low-literacy migrant workers.
+  * Verifiable work history ledger protecting laborers against wage theft and arbitrary pay deductions.
+  * *Stack: React · Tailwind CSS · Supabase · Web Speech API*
+
+* **[EcoSnap](https://ecosnap-sand.vercel.app/)** — *Finalist @ KIIT Ideathon*
+  * Gamified civic sustainability platform that turns everyday environmental actions into verified streaks.
+  * Daily micro-missions with photo upload verification and automated XP rewards.
+  * Community leaderboards measuring aggregate plastic averted and carbon saved.
+  * *Stack: Next.js · TypeScript · Tailwind CSS · Supabase*
+
+#### 📱 Systems & Native Android
+
+* **[DuoSync](https://github.com/AadarshJain07)**
+  * Low-level Android Bluetooth audio routing research utility evaluating dual-earbud playback.
+  * Interrogates `AudioTrack.setPreferredDevice` on Android 12+ and inspects active audio sinks.
+  * Empirically verified why standard AOSP collapses `STREAM_MUSIC` to a single active sink without hardware bridges.
+  * Models cross-vendor crystal oscillator clock drift and phase cancellation over sustained playback sessions.
+  * *Stack: Android SDK · Kotlin · AudioTrack · Bluetooth Profiles*
+
+* **[DayBell](https://github.com/AadarshJain07)**
+  * Privacy-first, local-only birthday and anniversary reminder app for offline peace of mind.
+  * Runs 100% offline with zero cloud tracking using Dexie.js (IndexedDB).
+  * Device-native background notifications scheduled via Capacitor Local Notifications.
+  * Handles leap-year edge cases cleanly with modular arithmetic. Compiled as a standalone Android APK.
+  * *Stack: React 19 · TypeScript · Capacitor · IndexedDB (Dexie) · Tailwind CSS*
+
+#### 🎯 Exam Engines & EdTech
+
+* **[MPTET MasterPrep](https://mptet-bay.vercel.app/)**
+  * Full-stack Computer-Based Test (CBT) simulation ecosystem for Madhya Pradesh state teacher eligibility aspirants.
+  * Pixel-accurate replication of the official Vyapam (MPESB) 5-state color-coded test palette and countdown timer.
+  * Bilingual question toggle (Hindi/English) with state preservation across all question sections.
+  * Fullscreen anti-cheat monitoring with tab-blur detection and detailed Recharts accuracy analytics.
+  * *Stack: TanStack Start · React · Supabase · Recharts · Tailwind CSS*
+
+* **[EduTwin AI](https://github.com/AadarshJain07)**
+  * Prototype exploring continuous Digital Learning Twins mapping student conceptual mastery across STEM curricula.
+  * Diagnoses specific sub-topic bottlenecks rather than aggregate letter grades.
+  * *Stack: TypeScript · React · Vector Search · Educational Ontologies*
+
+#### 🎙️ Conversational AI & Agents
+
+* **[Revora AI](https://revoraweb.vercel.app/)** — *Selected Builder @ Murf AI 10-Day Voice Sprint*
+  * Real-time vernacular voice companion for Indian learners.
+  * Pairs LiveKit bidirectional low-latency audio streaming with Murf Falcon TTS.
+  * Supports natural code-switched Hindi-English (Hinglish) dialogue and interactive debate modes.
+  * *Stack: React · LiveKit · Murf Falcon TTS · FastAPI · WebSockets*
+
+* **[SoulLink](https://soullink-eight.vercel.app/)** — *Semi-Finalist @ Thrizll Hackathon*
+  * Human connection platform replacing visual swiping with deep prompt discovery and conversational nuance.
+  * Evaluates multi-factor compatibility based on response depth and shared values.
+  * *Stack: Next.js · TypeScript · Tailwind CSS · AI Compatibility Engine*
+
+#### ⚡ Productivity & 3D Web
+
+* **[Rotary Switchboard](https://aadarsh07.vercel.app/)**
+  * Interactive 1930s antique rotary telephone switchboard running in Three.js WebGL.
+  * Physically simulated finger-wheel rotary dial with angular spring-return mechanics and raycaster tracking.
+  * Procedural brass twin-gong bell synthesis via Web Audio API with zero audio file downloads.
+  * Dial digits 1–0 to route through 10 live extension dossiers covering Projects, Academics, Chess, and Records.
+  * *Stack: Three.js · React Three Fiber · Web Audio API · Tailwind CSS*
+
+* **[QuickMind](https://github.com/AadarshJain07)**
+  * Ultra-fast floating overlay scratchpad for instant thought and code capture on Desktop and Android.
+  * Global system hotkeys for zero-latency pop-up access during deep work sessions.
+  * Client-side encrypted local storage with zero cloud dependencies or telemetry tracking.
+  * *Stack: Tauri · TypeScript · Tailwind CSS · SQLite / Encrypted Storage*
 
 ---
 
-## 🏆 Verified Milestones & Competition Honors
+### Verified Track Record & Academic Results
 
-<div align="center">
-
-| Milestone | Arena / Authority | Category | Proof / Detail |
+| Achievement | Authority / Event | Result | Evidence |
 | :--- | :--- | :--- | :--- |
-| 🥇 **1st Place Gold Trophy** | **Inter-School Chess Championship** | Rapid Chess | Undefeated tournament run; forward candidate calculation & endgame strategy |
-| 📜 **65+ Verified Certificates** | **Unstop Platform** ([@aadarjai56791](https://unstop.com/u/aadarjai56791)) | Competitive Coding | National coding sprints, algorithm challenges, and tech assessments |
-| 🎖️ **94.8% Academic Merit** | **CBSE Board Examinations** | Class 10 Board | Distinction aggregate with top marks in Mathematics and Science |
-| 🥇 **School Rank 1 Gold** | **SOF National Science Olympiad (NSO)** | STEM Olympiad | Multi-step physics, mechanics, and quantitative reasoning |
-| 🥇 **Gold Medalist** | **Akhil Bharatiya Hindi Olympiad** | National Academy | Classical essay composition, grammar, and literary analysis |
-| 🥈 **Semi-Finalist** | **Thrizll: Build to Bond Hackathon** | Project: SoulLink | AI compatibility engine matching on conversational depth rather than swiping |
-| 🥇 **Finalist** | **Bharat Innovation Challenge** | Project: ShramSathi | Digital Work ID & transparent wage ledger for unorganized labor |
-| 🌟 **Finalist** | **KIIT Ideathon** | Project: EcoSnap | Gamified sustainability tracker with daily eco missions & XP streaks |
-| 🎯 **Selected Builder** | **Murf AI 10-Day Voice Sprint** | Project: Revora AI | Real-time LiveKit audio stream with Murf Falcon TTS voice agent |
-
-</div>
-
-<br/>
+| **Inter-School Chess Championship** | District Sports & Chess Federation | **1st Place Gold Trophy** | Undefeated tournament run in rapid chess; deep forward candidate calculation |
+| **CBSE Class 10 Board Examinations** | Central Board of Secondary Education | **94.8% Academic Distinction** | Top marks in Mathematics & Science; foundation for Class 11 PCM |
+| **Unstop Verified Credentials** | Unstop Platform | **65+ Verified Certificates** | Verified rankings in national coding sprints, algorithms & hackathons ([@aadarjai56791](https://unstop.com/u/aadarjai56791)) |
+| **National Science Olympiad (NSO)** | Science Olympiad Foundation | **School Rank 1 · Gold Medal** | Multi-step problem solving in mechanics, physics, and quantitative reasoning |
+| **Akhil Bharatiya Hindi Olympiad** | National Hindi Academy | **Gold Medal** | Classical essay composition, grammar, and literary analysis |
+| **Thrizll: Build to Bond** | Thrizll Hackathon | **Semi-Finalist** | Project: *SoulLink* — voice-first connection matching on conversational depth |
+| **Bharat Innovation Challenge** | National Innovation Track | **Finalist** | Project: *ShramSathi* — digital work ID & wage ledger for informal labor |
+| **KIIT Ideathon** | KIIT University | **Finalist** | Project: *EcoSnap* — gamified civic climate action with photo verification |
+| **Murf AI 10-Day Voice Sprint** | Murf AI | **Selected Builder** | Project: *Revora AI* — real-time LiveKit streaming with Murf Falcon TTS |
 
 ---
 
-## 🚀 Shipped Projects & Systems
+### Technical Competencies & Daily Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛣️ <a href="https://github.com/AadarshJain07">SadakSetu (सड़कसेतु)</a></h3>
-      <p><b>Civic crowdsourcing platform for road safety and pothole reporting.</b></p>
-      <ul>
-        <li>Geotagged pothole reports with real-time map clustering.</li>
-        <li>Municipal issue tracking dashboard with verification status.</li>
-        <li>Offline-first local report caching for low-connectivity roads.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/STACK-React_·_TypeScript_·_Leaflet_·_Supabase-38bdf8?style=flat-square" alt="Stack"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎧 <a href="https://github.com/AadarshJain07">DuoSync (Android Systems Audio)</a></h3>
-      <p><b>Low-level Bluetooth audio routing research utility on Android.</b></p>
-      <ul>
-        <li>Interrogates <code>AudioTrack.setPreferredDevice</code> on Android 12+.</li>
-        <li>A2DP profile inspection & crystal oscillator clock drift telemetry.</li>
-        <li>Generates mathematical 16-bit PCM test tones to probe channel isolation.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/STACK-Android_SDK_·_Kotlin_·_AudioTrack_·_Bluetooth-10b981?style=flat-square" alt="Stack"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/AadarshJain07">QuickMind (Desktop & Android)</a></h3>
-      <p><b>Ultra-fast floating overlay utility for instant thought capture.</b></p>
-      <ul>
-        <li>Global keyboard shortcuts for instant pop-up scratchpad.</li>
-        <li>Local SQLite / IndexedDB encryption with zero cloud dependencies.</li>
-        <li>Clean Markdown preview and instant Ctrl+K command search.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/STACK-Tauri_·_TypeScript_·_Tailwind_·_SQLite-6366f1?style=flat-square" alt="Stack"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://mptet-bay.vercel.app/">MPTET MasterPrep (CBT Exam Engine)</a></h3>
-      <p><b>Pixel-accurate Computer-Based Test simulation for state exam aspirants.</b></p>
-      <ul>
-        <li>Faithful replication of official Vyapam 5-state color question palette.</li>
-        <li>Anti-cheat fullscreen lockdown and tab-switch telemetry.</li>
-        <li>Recharts accuracy breakdown by subject with instant admit card issuance.</li>
-      </ul>
-      <p>
-        <a href="https://mptet-bay.vercel.app/"><img src="https://img.shields.io/badge/DEMO-mptet--bay.vercel.app-38bdf8?style=flat-square&logo=vercel" alt="Demo"/></a>
-        <img src="https://img.shields.io/badge/STACK-TanStack_·_React_·_Supabase-3ecf8e?style=flat-square" alt="Stack"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤝 <a href="https://shramsathi.vercel.app/">ShramSathi (Civic Work ID)</a></h3>
-      <p><b>Digital Work ID & transparent wage ledger for unorganized workers.</b></p>
-      <ul>
-        <li>Finalist @ <b>Bharat Innovation Challenge</b>.</li>
-        <li>Bilingual voice-assisted work verification and daily wage logger.</li>
-        <li>Direct discoverability for state healthcare and social welfare schemes.</li>
-      </ul>
-      <p>
-        <a href="https://shramsathi.vercel.app/"><img src="https://img.shields.io/badge/DEMO-shramsathi.vercel.app-f59e0b?style=flat-square&logo=vercel" alt="Demo"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 <a href="https://ecosnap-sand.vercel.app/">EcoSnap (Gamified Climate Action)</a></h3>
-      <p><b>Community climate platform turning sustainable actions into streaks.</b></p>
-      <ul>
-        <li>Finalist @ <b>KIIT Ideathon</b>.</li>
-        <li>Daily micro-missions with photo verification and streak tracking.</li>
-        <li>Community leaderboards showcasing verified plastic & carbon savings.</li>
-      </ul>
-      <p>
-        <a href="https://ecosnap-sand.vercel.app/"><img src="https://img.shields.io/badge/DEMO-ecosnap--sand.vercel.app-10b981?style=flat-square&logo=vercel" alt="Demo"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://revoraweb.vercel.app/">Revora AI (Conversational Agent)</a></h3>
-      <p><b>Real-time vernacular voice companion for Indian learners.</b></p>
-      <ul>
-        <li>Selected Builder @ <b>Murf AI Voice Sprint</b>.</li>
-        <li>LiveKit bidirectional audio streaming paired with Murf Falcon TTS.</li>
-        <li>Handles natural code-switched Hindi-English (Hinglish) dialogue.</li>
-      </ul>
-      <p>
-        <a href="https://revoraweb.vercel.app/"><img src="https://img.shields.io/badge/DEMO-revoraweb.vercel.app-a855f7?style=flat-square&logo=vercel" alt="Demo"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>♟️ <a href="https://aadarsh07.vercel.app/chess.html">Offline Tactical Chess Engine</a></h3>
-      <p><b>100% offline in-browser chess engine and pass-and-play board.</b></p>
-      <ul>
-        <li>Bitboard state evaluation and deterministic move validation.</li>
-        <li>FEN and PGN state import/export with zero external server calls.</li>
-        <li>Tactile responsive touch controls with native device haptics.</li>
-      </ul>
-      <p>
-        <a href="https://aadarsh07.vercel.app/chess.html"><img src="https://img.shields.io/badge/PLAY-CHESS_ARENA-ffd700?style=flat-square&logo=lichess&logoColor=black" alt="Play Chess"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
+* **Languages:** TypeScript, JavaScript, Python, C++, HTML5, CSS3 / Modern Tailwind.
+* **Frontend & Web Graphics:** React 19, Three.js, React Three Fiber, WebGL shaders, Canvas 2D, Vite, TanStack Router.
+* **Audio & Hardware Systems:** Web Audio API (real-time procedural frequency & noise synthesis), Android SDK (AudioTrack, Bluetooth A2DP / LE Audio profiling).
+* **Backend & Edge:** Node.js, Nitro Server Engine, Supabase, PostgreSQL (Row Level Security), REST APIs.
+* **Modern Engineering Tooling:** Claude, Gemini, Cursor, Antigravity, GitHub Copilot, Git / GitHub, Linux CLI.
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+### Chess & Engineering Parallels
+
+As a competitive tournament chess player, the discipline required on the 64 squares directly governs how I write software:
+
+1. **Candidate Move Calculation:** Calculating variations 3–5 moves ahead translates directly into modeling asynchronous state machines, edge cases, and unexpected race conditions.
+2. **Positional Discipline:** In chess, creating an unnecessary pawn weakness loses the endgame 40 moves later. In code, sloppy architecture and memory leaks unravel high-framerate systems over time.
+3. **Execution Under Pressure:** Rapid chess time-troubles built the composure needed to debug live systems during 48-hour competitive hackathons.
+
+---
+
+### Get In Touch
+
+I am always open to discussing **systems architecture, 3D graphics, native Android audio, civic technology, or competitive chess**.
+
+* **Live Portfolio:** [aadarsh07.vercel.app](https://aadarsh07.vercel.app/)
+* **Unstop Credentials:** [unstop.com/u/aadarjai56791](https://unstop.com/u/aadarjai56791)
+* **LinkedIn:** [linkedin.com/in/itsmeaadarsh](https://linkedin.com/in/itsmeaadarsh)
+* **Email:** [jaadarsh.007@gmail.com](mailto:jaadarsh.007@gmail.com)
+* **GitHub:** [github.com/AadarshJain07](https://github.com/AadarshJain07)
+
+---
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%"><b>⚡ Core Languages</b></td>
-    <td align="center" width="25%"><b>🎨 Frontend & 3D Web</b></td>
-    <td align="center" width="25%"><b>🤖 Modern AI Tooling</b></td>
-    <td align="center" width="25%"><b>🗄️ Backend & Systems</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css" alt="Languages" /><br/>
-      <sub>TypeScript · JavaScript<br/>Python · C++</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,figma" alt="Frontend" /><br/>
-      <sub>React 19 · Vite 8 · Three.js<br/>Tailwind CSS · Canvas 2D</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,github,postman" alt="AI Tooling" /><br/>
-      <sub>Claude · Gemini · Cursor<br/>Antigravity · GitHub Copilot</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,androidstudio" alt="Backend & Systems" /><br/>
-      <sub>Supabase · PostgreSQL<br/>Node.js · Android SDK</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-## 📊 Activity & Telemetry
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AadarshJain07/AadarshJain07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AadarshJain07/AadarshJain07/output/github-contribution-grid-snake.svg">
-  <img alt="2D GitHub Contribution Snake Game" src="https://raw.githubusercontent.com/AadarshJain07/AadarshJain07/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AadarshJain07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="415px" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadarshJain07&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=38bdf8&currStreakLabel=00f2fe" alt="GitHub Streak" width="415px" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadarshJain07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=94a3b8" alt="Top Languages" width="390px" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-## ♟️ Chess & First-Principles Engineering
-
-In competitive chess, every move either strengthens your piece coordination or leaves an irreversible structural weakness. Engineering is the exact same game:
-
-- **Calculation Depth:** Visualizing candidate variations 3–5 moves ahead translates directly into modeling asynchronous state machines, race conditions, and error boundaries.
-- **Endgame Conversion:** The patience required to nurse a half-pawn positional edge into a win mirrors the discipline needed to eliminate memory leaks, optimize bundle sizes, and keep framerates locked at 60 FPS.
-- **The Routine:** Balancing Class 11 PCM mechanics (HC Verma), coordinate geometry, and physical chess with late-night coding.
-
-<br/>
-
----
-
-## 📬 Connect & Collaborate
-
-Whether it's discussing **Android system internals, Three.js web graphics, civic tech projects, or a friendly game of rapid chess**, feel free to reach out:
-
-<p align="center">
-  <a href="https://aadarsh07.vercel.app/">
-    <img src="https://img.shields.io/badge/AADARSH.OS-000000?style=for-the-badge&logo=safari&logoColor=00f2fe" alt="Live Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://unstop.com/u/aadarjai56791">
-    <img src="https://img.shields.io/badge/UNSTOP-0284c7?style=for-the-badge&logo=unstop&logoColor=white" alt="Unstop" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/itsmeaadarsh">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:jaadarsh.007@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AadarshJain07">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20,38&height=100&section=footer" width="100%" alt="Footer Wave" />
-  <p><sub>⚡ <i>Built with curiosity, physics, and code.</i> — <b>Aadarsh Jain</b></sub></p>
+  <sub>Built with first-principles reasoning, physics, and code · Aadarsh Jain © 2026</sub>
 </div>
